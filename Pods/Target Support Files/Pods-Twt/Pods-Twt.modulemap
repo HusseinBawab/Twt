@@ -1,0 +1,6 @@
+framework module Pods_Twt {
+  umbrella header "Pods-Twt-umbrella.h"
+
+  export *
+  module * { export * }
+}

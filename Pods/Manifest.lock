@@ -1,0 +1,30 @@
+PODS:
+  - ActiveLabel (0.6.2)
+  - Fabric (1.6.8)
+  - SDWebImage (3.8.2):
+    - SDWebImage/Core (= 3.8.2)
+  - SDWebImage/Core (3.8.2)
+  - SVProgressHUD (2.0.3)
+  - TwitterCore (2.4.0):
+    - Fabric
+  - TwitterKit (2.4.0):
+    - TwitterCore (= 2.4.0)
+
+DEPENDENCIES:
+  - ActiveLabel
+  - Fabric
+  - SDWebImage
+  - SVProgressHUD
+  - TwitterKit
+
+SPEC CHECKSUMS:
+  ActiveLabel: 2394eb48a2e31644ea90d6543c17bffe1d06f549
+  Fabric: 5755268d0171435ab167e3d0878a28a777deaf10
+  SDWebImage: 098e97e6176540799c27e804c96653ee0833d13c
+  SVProgressHUD: b0830714205bea1317ea1a2ebc71e5633af334d4
+  TwitterCore: a139904c80805ad3dde9eef1100704f96f646d1d
+  TwitterKit: 1cf9742edf9d182c1518cfdd6aaac0dfe313b38b
+
+PODFILE CHECKSUM: 9c31688d3c928875a1d5469b366a33a81a146cc9
+
+COCOAPODS: 1.0.1
